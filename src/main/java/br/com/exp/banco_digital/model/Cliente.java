@@ -1,4 +1,4 @@
-package br.com.exp.banco_digital;
+package br.com.exp.banco_digital.model;
 
 import lombok.Getter;
 import lombok.Setter;

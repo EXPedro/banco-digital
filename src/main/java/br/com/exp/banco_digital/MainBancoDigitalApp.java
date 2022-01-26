@@ -1,6 +1,11 @@
 package br.com.exp.banco_digital;
 
-public class Main {
+import br.com.exp.banco_digital.model.Cliente;
+import br.com.exp.banco_digital.model.ContaCorrente;
+import br.com.exp.banco_digital.model.ContaPoupanca;
+import br.com.exp.banco_digital.conta.Conta;
+
+public class MainBancoDigitalApp {
     public static void main(String[] args) {
         Cliente helga = new Cliente();
         helga.setNome("Helga Elize B Mendes");

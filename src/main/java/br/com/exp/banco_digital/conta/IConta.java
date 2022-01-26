@@ -1,4 +1,4 @@
-package br.com.exp.banco_digital;
+package br.com.exp.banco_digital.conta;
 
 public interface IConta {
     void sacar(double valor);

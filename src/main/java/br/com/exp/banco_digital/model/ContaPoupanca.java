@@ -1,6 +1,8 @@
-package br.com.exp.banco_digital;
+package br.com.exp.banco_digital.model;
 
-public class ContaPoupanca extends Conta{
+import br.com.exp.banco_digital.conta.Conta;
+
+public class ContaPoupanca extends Conta {
     public ContaPoupanca(Cliente cliente) {
         super(cliente);
     }

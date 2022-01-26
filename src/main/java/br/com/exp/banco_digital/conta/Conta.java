@@ -1,5 +1,6 @@
-package br.com.exp.banco_digital;
+package br.com.exp.banco_digital.conta;
 
+import br.com.exp.banco_digital.model.Cliente;
 import lombok.Getter;
 
 @Getter
